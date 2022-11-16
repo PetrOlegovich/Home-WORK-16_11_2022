@@ -8,7 +8,7 @@ Console.WriteLine("Введите число : ");
 int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 string str = num.ToString();
 
-if (num > 100)
+if (num > 99)
 {
     Console.WriteLine($"Третья цифра : {str[2]}");
 }

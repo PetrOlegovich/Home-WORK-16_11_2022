@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\bin\Debug\net6.0\ZADACHKA.exe
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\bin\Debug\net6.0\ZADACHKA.deps.json
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\bin\Debug\net6.0\ZADACHKA.runtimeconfig.json
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\bin\Debug\net6.0\ZADACHKA.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\bin\Debug\net6.0\ZADACHKA.pdb
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.AssemblyInfo.cs
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\refint\ZADACHKA.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.pdb
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ZADACHKA.genruntimeconfig.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\PAPKA\PETRUSHKA\ZADACHKA\obj\Debug\net6.0\ref\ZADACHKA.dll
